@@ -1,0 +1,40 @@
+News,#genre#
+
+
+凤凰资讯tv,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8 
+凤凰中文tv,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8 
+
+测试,#genre#
+
+
+Oversea,#genre#
+
+ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+Aljazeera News SD,https://live-hls-web-aje.getaj.net/AJE/04.m3u8
+Aljazeera News HD,https://live-hls-web-aje.getaj.net/AJE/02.m3u8#https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+BBC News (480p),http://www.filmon.com/vr-streams/27.high/playlist.m3u8
+BBC World News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+Bloomberg US,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+Bloomberg EU,https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+
+CBS News,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+Channel News Asia (1080p),http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+CGTN,http://live.cgtn.com/1000/prog_index.m3u8
+CGTN,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+FOX News Radio (192p),https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+
+NBC News,http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+Newsmax,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+
+NHK·华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+NHK·国际频道,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+
+WBRZ 2,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+
+NASA TV Media,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+NASA TV Public,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+联播,#genre#
