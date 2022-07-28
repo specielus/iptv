@@ -1,10 +1,8 @@
 {
-"spider": "https://ghproxy.com/https://github.com/t9t6/box/blob/main/jar/20220722.jar",
+"spider": "https://github.com/specielus/iptv/blob/main/jar/20220728.jar",
 
 "sites": [
 {"key":"csp_appys_美剧虫","name":"美剧虫(v1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
-{"key":"csp_biubiu_akmeiju","name":"爱看美剧","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw-gh.gcdn.mirr.one/liu673cn/box/main/sub/biubiu/akmeiju.json"},
-
 { "key": "LIBVIO", "name": "LIBVIO（XB）", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://cdn.jsdelivr.net/gh/t9t6/box@main/xb/xb_libvio.json" },
 { "key": "555电影", "name": "555电影（XB）", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://cdn.jsdelivr.net/gh/t9t6/box@main/xb/xb_555dy.json" },
 { "key": "瓜皮TV", "name": "瓜皮TV（XB）", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://cdn.jsdelivr.net/gh/t9t6/box@main/xb/xb_guapi.json" },
