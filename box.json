@@ -2,7 +2,6 @@
 "spider": "https://github.com/specielus/iptv/blob/main/jar/20220728.jar",
 
 "sites": [
-{"key":"csp_appys_美剧虫","name":"美剧虫(v1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
 { "key": "LIBVIO", "name": "LIBVIO（XB）", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.githubusercontent.com/specielus/iptv/main/xb/xb_libvio.json" },
 { "key": "555电影", "name": "555电影（XB）", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.githubusercontent.com/specielus/iptv/main/xb/xb_555dy.json" },
 { "key": "瓜皮TV", "name": "瓜皮TV（XB）", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.githubusercontent.com/specielus/iptv/main/xb/xb_guapi.json" },
@@ -36,6 +35,7 @@
 //{ "key": "csp_GitCafe", "name": "小纸条（SP）", "type": 3, "api": "csp_GitCafe", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 //{ "key": "csp_AliPanSou", "name": "盘搜（SP）", "type": 3, "api": "csp_AliPanSou", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 //{ "key": "push_agent", "name": "推送（SP）", "type": 3, "api": "csp_Ali", "searchable": 0, "quickSearch": 0, "filterable": 0 },
+//{ "key": "csp_appys_美剧虫","name":"美剧虫(v1)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
 //{ "key": "csp_xpath_zxzj", "name": "在线之家（XP）", "type": 3, "api": "csp_XPathMacFilter", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.githubusercontent.com/specielus/iptv/main/xp/xp_zxzj.js" },
 
 
