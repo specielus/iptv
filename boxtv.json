@@ -59,7 +59,16 @@
         "纪录片"
       ]
     }, 
-    
+    { "key": "lezhu", 
+      "name": "乐猪爬虫", 
+      "type": 1, 
+      "api": "http://pandown.pro/maoys/lezhu.php"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": []
+    },
+  
     {
       "key": "xinlangapi",
       "name": "新浪(sp)",
