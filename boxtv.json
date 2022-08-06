@@ -70,7 +70,14 @@
 "categories": [
 "国产剧","综艺","动漫","动作片","科幻片","恐怖片","剧情片","战争片","喜剧片","爱情片"]
 },
-
+     {"key":"美剧虫TV",
+      "name":"美剧虫TV(神马)",
+      "type":3,
+      "api":"http://cms.meijuchong.com/api.php/Chengcheng/vod/",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+       },
   
     {
       "key": "xinlangapi",
