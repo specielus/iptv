@@ -77,6 +77,8 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
+      "playUrl": "",
+      "categories": ["欧美剧","海外剧","日韩剧","电影"]
        },
   
     {
@@ -103,7 +105,7 @@
         "动漫电影",
         "欧美剧"
       ]
-    },
+    }"
     {
       "key": "guangsuapi",
       "name": "光速推荐(sp)",
