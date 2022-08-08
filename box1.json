@@ -245,18 +245,7 @@
         "动漫"
       ]
     },
-    
-    {
-     "key":"樱花资源",
-     "name":"樱花资源",
-     "type":1,
-     "api":"https://yhzy.cc/api.php/provide/vod/",
-     "playUrl":"",
-     "searchable":1,
-     "quickSearch":1
-     "filterable": 0
-    },
-    
+   
     {
       "key": "U酷",
       "name": "u酷{无广告}",
