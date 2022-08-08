@@ -1,6 +1,6 @@
 {
   "sites": [
-{ "key": "lezhu", "name": "乐猪爬虫", "type": 1, "api": "http://pandown.pro/maoys/lezhu.php" },
+    { "key": "lezhu", "name": "乐猪爬虫", "type": 1, "api": "http://pandown.pro/maoys/lezhu.php" },
 { "key": "cokemv", "name": "cokemv爬虫", "type": 1, "api": "http://pandown.pro/maoys/cokemv.php" },
 
     {
@@ -229,7 +229,17 @@
         "纪录片"
       ]
     },
-     {
+    {
+      "key": "U酷",
+      "name": "u酷{无广告}",
+      "type": 0,
+      "api": "https://api.ukuapi.com/api.php/provide/vod/from/ukyun/at/xml/",
+      "playUrl": "",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
       "key": "天堂资源",
       "name": "天堂资源(官)",
       "type": 1,
@@ -245,17 +255,6 @@
         "动漫"
       ]
     },
-   
-    {
-      "key": "U酷",
-      "name": "u酷{无广告}",
-      "type": 0,
-      "api": "https://api.ukuapi.com/api.php/provide/vod/from/ukyun/at/xml/",
-      "playUrl": "",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },  
 
     {
       "key": "八戒官采",
