@@ -246,8 +246,9 @@
       ]
     },
     
-    {"key":"樱花资源",
-     "name":"🐝樱花资源",
+    {
+     "key":"樱花资源",
+     "name":"樱花资源",
      "type":1,
      "api":"https://yhzy.cc/api.php/provide/vod/",
      "playUrl":"",
