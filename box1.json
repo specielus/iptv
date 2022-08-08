@@ -3,7 +3,7 @@
     { "key": "lezhu", "name": "乐猪爬虫", "type": 1, "api": "http://pandown.pro/maoys/lezhu.php" },
 { "key": "cokemv", "name": "cokemv爬虫", "type": 1, "api": "http://pandown.pro/maoys/cokemv.php" },
 
-  {
+    {
 "key": "MBO影视",
 "name": "MBO影视",
 "type": 0,
@@ -287,7 +287,7 @@
       "filterable": 0
     }
   ],
-"lives": [
+ "lives": [
 {
 "group": "电视频道",
 "channels": [
