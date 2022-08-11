@@ -21,12 +21,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "categories": [
-        "电影",
-        "连续剧",
-        "综艺",
-        "动漫"
-      ]
+      "categories": []
     },
         {
       "key": "天堂资源",
