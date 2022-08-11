@@ -32,12 +32,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-     "categories": [
-        "电影",
-        "国产剧",
-        "综艺",
-        "动漫"
-      ]
+     "categories": []
     },
         {
       "key": "m3u8",
@@ -48,23 +43,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "categories": [
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "泰剧",
-        "综艺",
-        "动漫",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "纪录片"
-      ]
+      "categories": []
     },
       
     {
@@ -75,22 +54,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "categories": [
-        "综艺",
-        "动漫",
-        "动作",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "大陆剧",
-        "港澳剧",
-        "韩剧",
-        "动漫电影",
-        "欧美剧"
-      ]
+      "categories": []
     },
     {
       "key": "guangsuapi",
@@ -100,22 +64,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "categories": [
-        "综艺",
-        "动漫",
-        "动作",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "大陆剧",
-        "港澳剧",
-        "韩剧",
-        "动漫电影",
-        "欧美剧"
-      ]
+      "categories": []
     },
     {
       "key": "lziapi",
@@ -125,23 +74,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "categories": [
-        "国产剧",
-        "香港剧",
-        "韩国剧",
-        "欧美剧",
-        "泰剧",
-        "大陆综艺",
-        "国产动漫",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "纪录片"
-      ]
+      "categories": []
     },
     {
       "key": "kuaibozy",
@@ -151,23 +84,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "categories": [
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "泰剧",
-        "综艺",
-        "动漫",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "纪录片"
-      ]
+      "categories": []
     },
     {
       "key": "木子",
@@ -178,12 +95,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "categories": [
-        "电影",
-        "连续剧",
-        "综艺",
-        "动漫"
-      ]
+      "categories": []
     },
     {
       "key": "m3u8",
@@ -194,23 +106,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "categories": [
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "泰剧",
-        "综艺",
-        "动漫",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "纪录片"
-      ]
+      "categories": []
     },
     {
       "key": "U酷",
@@ -231,12 +127,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-     "categories": [
-        "电影",
-        "国产剧",
-        "综艺",
-        "动漫"
-      ]
+     "categories": []
     },
 
     {
@@ -279,7 +170,6 @@
           "urls": [
 "http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8", 
 "http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8", 
-"http://hkss3.phoenixtv.com/fs/pic.stream/.m3u8"
           ]
         },
 {
