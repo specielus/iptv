@@ -221,7 +221,8 @@
 {
 "name": "凤凰资讯tv",
 "urls": [
-"http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8"
+"http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8",
+"http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8"
 ]
 },
 {
