@@ -1,23 +1,25 @@
 {
   "sites": [
     { "key": "lezhu", "name": "乐猪爬虫", "type": 1, "api": "http://pandown.pro/maoys/lezhu.php" },
-{ "key": "cokemv", "name": "cokemv爬虫", "type": 1, "api": "http://pandown.pro/maoys/cokemv.php" },
-     {
-"key": "MBO影视",
-"name": "MBO影视",
-"type": 0,
-"api": "https://www.mbomovie.com/api.php/provide/vod/at/xml",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"categories": []},
-
+    { "key": "cokemv", "name": "cokemv爬虫", "type": 1, "api": "http://pandown.pro/maoys/cokemv.php" },
+//     
     {
+     "key": "MBO影视",
+     "name": "MBO影视",
+     "type": 0,
+     "api": "https://www.mbomovie.com/api.php/provide/vod/at/xml",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1,
+     "categories": []
+     },
+
+     {
       "key": "木子",
       "name": "木子（高速）",
       "type": 1,
       "api": "https://mzkj.maccms.cf/api.php/provide/vod/",
-       "playUrl":"https://jx5.178du.com/p1/?url=",
+      "playUrl":"https://jx5.178du.com/p1/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -129,7 +131,7 @@
       "filterable": 0,
      "categories": []
     },
-
+//
     {
       "key": "八戒官采",
       "name": "八戒官采(官)",
@@ -166,12 +168,12 @@
 "group": "电视频道",
 "channels": [
 {
-          "name": "凤凰资讯",
-          "urls": [
+"name": "凤凰资讯",
+"urls": [
 "http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8", 
 "http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8", 
-          ]
-        },
+]
+},
 {
 "name": "万合天宜",
 "urls": [
