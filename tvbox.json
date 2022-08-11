@@ -214,18 +214,92 @@
     }
   ],
   "lives": [
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "live",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vd2t5aWxpc2hhL3R2Ym94L3Jhdy9icmFuY2gvbWFpbi96Yi9h"
-          ]
-        }
-      ]
-    }
-  ],
+
+{
+"group": "电视频道",
+"channels": [
+{
+"name": "凤凰资讯tv",
+"urls": [
+"http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8"
+"http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8"
+]
+},
+{
+"name": "万合天宜",
+"urls": [
+"http://epg.112114.xyz/douyu/9220456"
+]
+},
+{
+"name": "华语经典",
+"urls": [
+"http://epg.112114.xyz/douyu/434971"
+]
+},
+{
+"name": "华语院线",
+"urls": [
+"http://epg.112114.xyz/douyu/5581257"
+]
+},
+{
+"name": "星星华语",
+"urls": [
+"http://epg.112114.xyz/douyu/5423"
+]
+},
+{
+"name": "华语电影",
+"urls": [
+"http://epg.112114.xyz/douyu/3928"
+]
+},
+{
+"name": "豆瓣高分",
+"urls": [
+"http://epg.112114.xyz/douyu/8770422"
+]
+},
+{
+"name": "漫威电影",
+"urls": [
+"http://epg.112114.xyz/douyu/4282654"
+]
+},
+{
+"name": "贝爷MAX",
+"urls": [
+"http://epg.112114.xyz/douyu/4332"
+]
+},
+{
+"name": "贝爷影厅1",
+"urls": [
+"http://epg.112114.xyz/douyu/252802"
+]
+},
+{
+"name": "贝爷影厅2",
+"urls": [
+"http://epg.112114.xyz/douyu/36337"
+]
+},
+{
+"name": "可乐电影",
+"urls": [
+"http://epg.112114.xyz/douyu/20415"
+]
+},
+{
+"name": "小宇60帧",
+"urls": [
+"http://epg.112114.xyz/douyu/323876"
+]
+}
+]
+}
+],
   "parses": [
         {
       "name": "自动解析",
