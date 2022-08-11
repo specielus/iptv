@@ -282,17 +282,27 @@
 "group": "电视频道",
 "channels": [
 {
+          "name": ""凤凰资讯",
+          "urls": [
+"http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8", 
+"http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8", 
+"http://hkss3.phoenixtv.com/fs/pic.stream/.m3u8"
+          ]
+        },
+{
+"name": "万合天宜",
+"urls": [
+"http://epg.112114.xyz/douyu/9220456"
+]
+},
+
+{
 "name": "华语经典",
 "urls": [
 "http://epg.112114.xyz/douyu/434971"
 ]
 },
 {
-"name": "凤凰资讯",
-"urls": [
-"http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8"
-]
-},{
 "name": "星星华语",
 "urls": [
 "http://epg.112114.xyz/douyu/5423"
