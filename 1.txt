@@ -1,8 +1,8 @@
 News,#genre#
 
 
-凤凰资讯tv,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8 
-凤凰中文tv,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8 
+凤凰资讯tv,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8 
+凤凰中文tv,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
 
 测试,#genre#
 
