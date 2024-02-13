@@ -61,70 +61,27 @@
   ],
 
   "lives": [
-
-
-
 {
-
 "group": "电视频道",
-
 "channels": [
-
-{
-
-"name": "凤凰资讯tv",
-
-"urls": [
-
-"http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8",
-
-"http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8"
-
-]
-
-},
-
-{
-
-"name": "万合天宜",
-
-"urls": [
-
-"http://epg.112114.xyz/douyu/9220456"
-
-]
-
-},
-
-{
-
-"name": "N分钟",
-
-"urls": [
-
-"http://epg.112114.xyz/douyu/2758565#"
-
-]
-
-},
-
-{
-
-"name": "科幻Fans",
-
-"urls": [
-
-"http://epg.112114.xyz/douyu/3508304#"
-
-]
-
-}
-
-]
-
-}
-
-],
+{"name": "凤凰资讯tv",
+"urls": ["http://r.jdshipin.com/0Rp07","http://kkwk1122.top/fh.php?id=fhzx"]},
+{"name":"无线新闻","urls":["http://r.jdshipin.com/CkuBd"]},
+{"name":"女神影院","urls":["http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8"]},
+{"name":"港台电影","urls":["http://43.138.170.29:35455/huya/880261"]},
+{"name":"黑帮斗争","urls":["http://43.138.170.29:35455/huya/11342419"]},
+{"name":"未知","urls":["http://43.138.170.29:35455/huya/11601986"]},
+{"name":"金庸电影","urls":["http://43.138.170.29:35455/huya/11352897"]},
+{"name":"经典电影","urls":["http://43.138.170.29:35455/huya/11352962"]},
+{"name":"经典好片","urls":["http://43.138.170.29:35455/huya/11342427"]},
+{"name":"经典喜剧片","urls":["http://43.138.170.29:35455/huya/11352894"]},
+{"name":"警匪","urls":["http://43.138.170.29:35455/huya/11352886"]},
+{"name":"救援电影","urls":["http://43.138.170.29:35455/huya/21059586"]},
+{"name":"科幻电影","urls":["http://43.138.170.29:35455/huya/11602034"]},
+{"name": "万合天宜","urls": ["https://www.goodiptv.club/douyu/9220456"]},
+{"name": "N分钟","urls": ["https://www.goodiptv.club/douyu/2758565"]},
+{"name": "科幻Fans","urls": ["https://www.goodiptv.club/douyu/3508304"]}
+]}],
 
 "parses": [
 
