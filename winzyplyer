@@ -1501,8 +1501,8 @@
     "data": [
       {
         "id": 1,
-        "name": "APTV",
-        "url": "https://agit.ai/00700/vvebo/raw/branch/main/aptv.txt",
+        "name": "看电视呗直播接口",
+        "url": "http://8.138.7.223/live.txt",
         "type": "remote",
         "isActive": true,
         "epg": "https://epg.112114.xyz/"
