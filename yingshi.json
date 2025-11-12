@@ -5,14 +5,11 @@
 {"name":"specielus直播","type":0,"playerType":1,"boot":false,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/specielus/iptv/main/1.txt","timeout":20},
 {"name":"hujingguang直播","type":0,"playerType":1,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8"},
 {"name":"kimwang直播","type":0,"playerType":1,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx.txt"},
-{"name":"微笑直播","type":0,"playerType":1,"pass":true,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"},
+
 {"name":"春盈直播","type":0,"playerType":1,"boot":false,"url":"https://wds.ecsxs.com/230864.json"},
 {"name":"00700","type":0,"playerType":1,"boot":false,"url":"https://agit.ai/00700/vvebo/raw/branch/main/live.txt"}],
 
 "sites":[
-
-{"key":"lf_js_lf_live","name":"电视 | 直播[js]","type":3,"api":"./lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"./lf_live.txt"},
-	
 	
 {"key":"直播","name":"💻电视直播","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/specielus/iptv/main/直播转点播.js","ext":"specielus$https://gh-proxy.com/https://raw.githubusercontent.com/specielus/iptv/main/1.txt#kimwang$https://gh-proxy.com/https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx.txt#hujingguang$https://gh-proxy.com/https://raw.githubusercontent.com/hujingguang/ChinaIPTV/refs/heads/main/cnTV_AutoUpdate.m3u8"},
 
