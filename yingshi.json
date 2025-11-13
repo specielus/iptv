@@ -3,7 +3,7 @@
 
 "lives":[
 {"name":"specielus直播","type":0,"playerType":1,"boot":false,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/specielus/iptv/main/1.txt","timeout":20},
-{"name":"hujingguang直播","type":0,"playerType":1,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8"},
+{"name":"hujingguang直播","type":0,"playerType":1,"boot":false,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8"},
 {"name":"kimwang直播","type":0,"playerType":1,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx.txt"},
 
 {"name":"春盈直播","type":0,"playerType":1,"boot":false,"url":"https://wds.ecsxs.com/230864.json"},
