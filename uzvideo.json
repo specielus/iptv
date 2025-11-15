@@ -36,8 +36,8 @@
     ],
     "live": [
         {
-            "name": "",
-            "url": "",
+            "name": "mylive",
+            "url": "https://gh-proxy.org/raw.githubusercontent.com/specielus/iptv/refs/heads/main/1.txt",
             "type": 10,
             "remark": ""
         }
@@ -54,39 +54,26 @@
             "version": "2",
             "type": 100
         },
-    
-  
         {
-            "name": "玩偶哥哥",
-            "api": "https://dh.fookxue.cn/UZ2/vod/js/wogg.js",
-            "webSite": "https://www.wogg.lol",
-            "remark": "网盘 1.6.41 及以上版本可用",
-            "version": "3",
-            "type": 101
+            "name": "卧龙资源",
+            "api": "https://collect.wolongzyw.com/api.php/provide/vod",
+            "remark": "",
+            "version": "",
+            "type": 0
         },
        {
             "api": "https://cj.rycjapi.com/api.php/provide/vod",
             "name": "🐝如意",
             "type": 0
         },
-        
         {
-            "name": "瓜子web",
-            "api": "https://dh.fookxue.cn/UZ2/vod/js/gzys.js",
-            "instance": "gzys20240822",
-            "webSite": "https://api.zaqohu.com",
-            "remark": "不支持搜索",
-            "version": "2",
-            "type": 100
+            "name": "非凡资源",
+            "api": "http://www.ffzy.tv/api.php/provide/vod",
+            "type": 0
         },
-       
-        
-    
-       
         {
             "name": "量子资源",
             "api": "http://cj.lziapi.com/api.php/provide/vod",
-          
             "type": 0
         },
      
