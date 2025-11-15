@@ -284,7 +284,7 @@
    "data":[
  {
     "name": "MY直播",
-    "url": "https://gh-proxy.org/raw.githubusercontent.com/specielus/iptv/refs/heads/main/1.txt",
+    "url": "https://hub.gitmirror.com/raw.githubusercontent.com/specielus/iptv/refs/heads/main/1.txt",
     "epg": "http://epg.112114.xyz",
     "isActive": true,
     "id": 1
