@@ -1,0 +1,192 @@
+{
+    "recommend": [
+        {
+            "name": "豆瓣推荐 影视推荐",
+            "codeID": "N7WRmLmOdB8FSh4M",
+            "url": "https://dh.fookxue.cn/UZ2/recommend/js/douban.txt",
+            "version": "3",
+            "type": 200
+        }
+    ],
+    "panTools": [
+        {
+            "name": "UC|夸克|阿里 网盘解析工具",
+            "url": "https://dh.fookxue.cn/UZ2/panTools/js/panTools.js",
+            "env": "UCCookie##用于播放UC网盘视频&&夸克Cookie##用于播放Quark网盘视频&&阿里Token##用于播放阿里网盘视频&&转存文件夹名称##在各网盘转存文件时使用的文件夹名称",
+            "version": 13,
+            "type": 300
+        }
+    ],
+    "danMu": [
+        {
+            "name": "综合弹幕",
+            "url": "https://dh.fookxue.cn/UZ2/danMu/js/danMu2.txt",
+            "codeID": "RkgRA9srEAgMgLcBJ78G2wlPRKTWWiwE",
+            "remark": "别那么执着，搜不到就算了",
+            "type": 400,
+            "version": 9
+        },
+        {
+            "name": "dandanPlay 弹幕",
+            "remark": "数据来自 弹弹Play",
+            "url": "https://dh.fookxue.cn/UZ2/danMu/js/danMu.js",
+            "type": 400,
+            "version": 1
+        }
+    ],
+    "live": [
+        {
+            "name": "",
+            "url": "",
+            "type": 10,
+            "remark": ""
+        }
+    ],
+    "vod": [
+      
+         {
+            "name": "瓜子app",
+            "api": "https://dh.fookxue.cn/UZ2/vod/js/gzapp.js",
+            "codeID": "ra5Z3wtXKshzSMK2",
+            "instance": "gzapp20241001",
+            "webSite": "https://api.9cec79d.com",
+            "remark": "",
+            "version": "2",
+            "type": 100
+        },
+    
+  
+        {
+            "name": "玩偶哥哥",
+            "api": "https://dh.fookxue.cn/UZ2/vod/js/wogg.js",
+            "webSite": "https://www.wogg.lol",
+            "remark": "网盘 1.6.41 及以上版本可用",
+            "version": "3",
+            "type": 101
+        },
+       {
+            "api": "https://cj.rycjapi.com/api.php/provide/vod",
+            "name": "🐝如意",
+            "type": 0
+        },
+        
+        {
+            "name": "瓜子web",
+            "api": "https://dh.fookxue.cn/UZ2/vod/js/gzys.js",
+            "instance": "gzys20240822",
+            "webSite": "https://api.zaqohu.com",
+            "remark": "不支持搜索",
+            "version": "2",
+            "type": 100
+        },
+       
+        
+    
+       
+        {
+            "name": "量子资源",
+            "api": "http://cj.lziapi.com/api.php/provide/vod",
+          
+            "type": 0
+        },
+     
+    
+        {
+            "name": "云盘资源网",
+            "codeID": "",
+            "api": "https://dh.fookxue.cn/UZ2/vod/js/resyunpan.js",
+            "instance": "resYunPan20241120",
+            "webSite": "https://res.yunpan.win",
+            "remark": "",
+            "version": 1,
+            "type": 100
+        },
+        {
+            "name": "🐱玩偶备用",
+            "api": "https://dh.fookxue.cn/UZ2/vod/js/wobg.js",
+            "webSite": "http://wogg.xxooo.cf",
+            "remark": "网盘 1.6.41 及以上版本可用",
+            "version": "3",
+            "type": 101
+        },
+        {
+            "name": "🪵木偶哥哥",
+            "api": "https://dh.fookxue.cn/UZ2/vod/js/mogg.js",
+            "webSite": "http://www.mogg.top",
+            "remark": "网盘 1.6.41 及以上版本可用",
+            "version": "2",
+            "type": 101
+        },
+        {
+            "name": "🌾小米网盘",
+            "api": "https://dh.fookxue.cn/UZ2/vod/js/xiaomi.js",
+            "webSite": "http://milvdou.fun/",
+            "remark": "网盘 1.6.41 及以上版本可用",
+            "version": "3",
+            "type": 101
+        },
+        {
+            "name": "⚡️至臻网盘",
+            "api": "https://dh.fookxue.cn/UZ2/vod/js/zhizhen.js",
+            "webSite": "https://mihdr.top",
+            "remark": "网盘 1.6.41 及以上版本可用",
+            "version": "3",
+            "type": 101
+        },
+       
+        {
+            "name": "🤠多多影音",
+            "api": "https://dh.fookxue.cn/UZ2/vod/js/duoduo.js",
+            "webSite": "https://tv.yydsys.top",
+            "remark": "网盘 1.6.41 及以上版本可用",
+            "version": "3",
+            "type": 101
+        },
+        {
+            "name": "🐲欧歌资源",
+            "api": "https://dh.fookxue.cn/UZ2/vod/js/ouge.js",
+            "webSite": "https://woog.nxog.eu.org",
+            "remark": "网盘 1.6.41 及以上版本可用",
+            "version": "3",
+            "type": 101
+        },
+        {
+            "name": "⚡闪电优汐",
+            "api": "https://dh.fookxue.cn/UZ2/vod/js/shandian.js",
+            "webSite": "http://1.95.79.193/",
+            "remark": "网盘 1.6.41 及以上版本可用",
+            "version": "1",
+            "type": 101
+        },
+     
+        {
+            "name": "🍚特下饭盘",
+            "api": "https://dh.fookxue.cn/UZ2/vod/js/xiafan.js",
+            "webSite": "http://www.xn--ghqy10g1w0a.xyz/",
+            "remark": "网盘 1.6.41 及以上版本可用",
+            "version": "1",
+            "type": 101
+        },
+        {
+            "name": "🤙🏻六趣网盘",
+            "api": "https://dh.fookxue.cn/UZ2/vod/js/liuqu.js",
+            "webSite": "https://wp.0v.fit",
+            "remark": "网盘 1.6.41 及以上版本可用",
+            "version": "1",
+            "type": 101
+        },
+     
+        {
+            "name": "南风短剧",
+            "api": "https://dh.fookxue.cn/UZ2/vod/js/nanfdj.js",
+            "webSite": "https://www.nanf.cc",
+            "remark": "网盘 | 1.6.41 及以上版本可用",
+            "version": "1",
+            "type": 101
+        }
+       
+       
+        
+       
+    ]
+}
