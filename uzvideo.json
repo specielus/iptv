@@ -1,6 +1,5 @@
 {
-   
-    "recommend": [
+   "recommend": [
         {
             "name": "豆瓣推荐 影视推荐",
             "codeID": "N7WRmLmOdB8FSh4M",
@@ -44,8 +43,7 @@
         }
     ],
      "vod": [
-      
-         {
+      {
             "name": "瓜子app",
             "api": "https://dh.fookxue.cn/UZ2/vod/js/gzapp.js",
             "codeID": "ra5Z3wtXKshzSMK2",
@@ -77,9 +75,7 @@
             "api": "http://cj.lziapi.com/api.php/provide/vod",
             "type": 0
         },
-     
-    
-        {
+       {
             "name": "云盘资源网",
             "codeID": "",
             "api": "https://dh.fookxue.cn/UZ2/vod/js/resyunpan.js",
@@ -121,7 +117,6 @@
             "version": "3",
             "type": 101
         },
-       
         {
             "name": "🤠多多影音",
             "api": "https://dh.fookxue.cn/UZ2/vod/js/duoduo.js",
@@ -146,7 +141,6 @@
             "version": "1",
             "type": 101
         },
-     
         {
             "name": "🍚特下饭盘",
             "api": "https://dh.fookxue.cn/UZ2/vod/js/xiafan.js",
@@ -163,7 +157,6 @@
             "version": "1",
             "type": 101
         },
-     
         {
             "name": "南风短剧",
             "api": "https://dh.fookxue.cn/UZ2/vod/js/nanfdj.js",
@@ -172,10 +165,5 @@
             "version": "1",
             "type": 101
         }
-       
-       
-        
-       
-    ]
-    
+        ]
 }
